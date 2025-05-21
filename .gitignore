@@ -1,0 +1,9 @@
+GroupNormV2.zip
+GroupNormV2_zip/
+build_out/
+# Ignore test output artifacts
+/test/dist/
+/test/custom_ops.egg-info/
+/test/kernel_meta/
+/test/extra-info/
+/test/fusion_result.json
